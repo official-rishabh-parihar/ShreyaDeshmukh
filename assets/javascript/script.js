@@ -18,14 +18,14 @@ tl.from('.menu', {
     ease: 'expo.easeInOut',
     delay: .1
 })
-.from('.detail', {
-    y: -20,
-    opacity: 0,
-    ease: 'expo.easeInOut',
-    delay: .1
-})
+// .from('.detail', {
+//     y: -20,
+//     opacity: 0,
+//     ease: 'expo.easeInOut',
+//     delay: .1
+// })
 .from('.social_links', {
-    y: -10,
+    y: -20,
     opacity: 0,
     ease: 'expo.easeInOut',
     delay: .1
